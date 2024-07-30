@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.activityiconcontainer.communication {
+    display: none;
+}
+
+.activityiconcontainer.content {
+     display: none;
+}
+
+.activityname {
+    display: none!important;
+}
+
+span.f2fsessionnotice {
+    display: none!important;
+}
+
+.f2fsessiontime {
+    font-size: 18px!important;
+    padding: 10px!important;
+    color: #475989!important;
+}
+
+.f2fsessionlinks {
+    font-size: 18px!important;
+    padding: 15px 10px!important;
+    color: #EA5D4E!important;
+    font-weight: bold!important;
+}
+
+.f2fsession {
+    border-bottom: 0px!important;
+    background-color: #E0DFF1!important;
+    padding: 5px 15px!important;
+    border-radius: 15px!important;
+    margin-bottom: 5px!important;
+}
+
+.upcomingAndMaterialText {
+    font-size: 25px !important;
+    color: #475989 !important;
+    font-weight: bold !important;
+}
